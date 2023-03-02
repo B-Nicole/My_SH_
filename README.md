@@ -9,21 +9,9 @@ This is a simple shell project where
 
 ## BUILT WITH:  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp; 
 
- 
-
-
-<br>
-<br>
-
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
 * The ability to run C code and the makefile
  
 
@@ -31,7 +19,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/B-Nicole/repo_name.git
+   git clone https://github.com/B-Nicole/Shell.git
    ```
 
 
@@ -62,6 +50,6 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/B-Nicole/repo_name](https://github.com/B-Nicole/repo_name)
+Project Link: [https://github.com/B-Nicole/repo_name](https://github.com/B-Nicole/Shell.git)
 
  
