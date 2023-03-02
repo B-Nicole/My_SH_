@@ -3,8 +3,8 @@
 ## About The Project
 ### Author: Brittany Hughes
 ### Description: 
-This is a simple shell project where 
- 
+This is a simple project made to imitate the shell at a basic level. Users are able to
+issue basic commands (see below) similar to an actual shell
 
 
 ## BUILT WITH:  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp; 
@@ -46,10 +46,12 @@ This is a simple shell project where
       !$
 ```
 
- 
+## Issues
+* Not able to read in a local file 
+
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/B-Nicole/repo_name](https://github.com/B-Nicole/Shell.git)
+Project Link: [https://github.com/B-Nicole/Shell.git](https://github.com/B-Nicole/Shell.git)
 
  
