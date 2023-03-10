@@ -3,7 +3,7 @@
 ## About The Project
 ### Author: Brittany Hughes
 ### Description: 
-This is a simple project made to imitate the shell at a basic level. Users are able to
+This is a simple project made to imitate ashell at a basic level. Users are able to
 issue basic commands (see below) similar to an actual shell
 
 
@@ -27,14 +27,14 @@ issue basic commands (see below) similar to an actual shell
 ## Usage
 
 ```
-  Can be used to run basic shell commands and symbols:
-    Example commands used in shell: 
+  Can be used to run basic commands and symbols:
+    Example commands used inshell: 
       grep hi 
       # this is a comment 
       cd
       echo hi | cat
 
-    Example symbols used in shell: 
+    Example symbols used inshell: 
       >
       <
       >>
@@ -52,6 +52,6 @@ issue basic commands (see below) similar to an actual shell
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/B-Nicole/Shell.git](https://github.com/B-Nicole/Shell.git)
+Project Link: [https://github.com/B-Nicole/My_SH.git](https://github.com/B-Nicole/My_SH.git)
 
  
